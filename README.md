@@ -27,7 +27,6 @@ I enjoy building scalable web applications and exploring new technologies to imp
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) 
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat) 
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat) 
 
 ## 📊 GitHub Stats  
 ![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousa90&show_icons=true&theme=radical)
@@ -48,4 +47,4 @@ A web app for **managing student registrations** and majors. Built with **ASP.NE
 🔗 **GitHub:** [Student-Reg-Sys](https://github.com/Mousa90/Student-Reg-Sys)  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-Mousa%20Alkalouti-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mousa-alkalouti)  [![Email](https://img.shields.io/badge/-mousa_341@hotmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mousa_341@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mousa-alkalouti)  [![Email](https://img.shields.io/badge/-mousa_341@hotmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mousa_341@hotmail.com)
