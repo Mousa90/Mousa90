@@ -25,27 +25,27 @@ I enjoy building scalable web applications and exploring new technologies to imp
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)  
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)  
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
 
 ## 📊 GitHub Stats  
-![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousa90&show_icons=true&theme=radical)  
+![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousa90&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousa90&layout=compact&theme=radical)  
 
 ## 🚀 Featured Projects  
 ### 🌍 Worlds Countries  
-An interactive web app providing insights about countries worldwide. Built with **Angular 18** and **ASP.NET Core Web API**.
+An interactive web app providing insights about countries worldwide. Built with **Angular 18** and **ASP.NET Core Web API**.  
 🔗 **GitHub:** [Worlds-Countries](https://github.com/Mousa90/Worlds-Countries)  
 
 ### 🏪 Origami Shop  
-An online store for handmade **origami figures** and Japanese-themed gifts. Developed with **Angular 17** and **Firebase**.
+An online store for handmade **origami figures** and Japanese-themed gifts. Developed with **Angular 17** and **Firebase**.  
 🔗 **GitHub:** [Origami-Shop](https://github.com/Mousa90/Origami-Shop)  
 
 ### 🎓 Student Registration System  
 A web app for **managing student registrations** and majors. Built with **ASP.NET MVC**.  
 🔗 **GitHub:** [Student-Reg-Sys](https://github.com/Mousa90/Student-Reg-Sys)  
 
-## 📫 Connect with Me
-- **LinkedIn:** [Mousa Alkalouti](https://www.linkedin.com/in/mousa-alkalouti)  
-- **Email:** [mousa_341@hotmail.com](mailto:mousa_341@hotmail.com)
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-Mousa%20Alkalouti-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/mousa-alkalouti)  [![Email](https://img.shields.io/badge/-mousa_341@hotmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mousa_341@hotmail.com)
