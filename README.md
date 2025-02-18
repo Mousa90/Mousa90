@@ -1,5 +1,5 @@
 # Hi there, I'm Mousa! 👋  
-🚀 Full-Stack Developer | C# | Angular | Web API
+🚀 Full-Stack Developer | C# | Web API | Angular
 
 I’m a passionate developer with experience in **C#, SQL, MVC, Web API, Angular, TypeScript, and .NET Core**.  
 I enjoy building scalable web applications and exploring new technologies to improve my workflow.  
