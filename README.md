@@ -1,44 +1,51 @@
 # Hi there, I'm Mousa! 👋  
 🚀 Full-Stack Developer | C# | Angular | Web API
 
-I’m a passionate developer with experience in **Angular, Web API, Firebase, and DevOps**.  
+I’m a passionate developer with experience in **C#, SQL, MVC, Web API, Angular, TypeScript, and .NET Core**.  
 I enjoy building scalable web applications and exploring new technologies to improve my workflow.  
 
 📌 **Open to collaboration** on exciting projects!  
 
-## 🛠️ Technologies & Tools  
+## 🛠️ Technologies & Tools
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat) 
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-5C2D91?logo=dotnet&logoColor=white&style=flat) 
+![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-5C2D91?logo=dotnet&logoColor=white&style=flat)  
+![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white&style=flat) 
+![ASP.NET Web API](https://img.shields.io/badge/-ASP.NET%20Web%20API-5C2D91?logo=dotnet&logoColor=white&style=flat)  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)  
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat)  
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) 
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) 
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat) 
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat)  
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white&style=flat)  
 
 ## 📊 GitHub Stats  
-![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Mousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mousa90&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousa90&layout=compact&theme=radical)  
 
 ## 🚀 Featured Projects  
-### [Origami Shop](https://github.com/your-github-username/origami-shop)  
-🛒 An e-commerce platform built with **Angular & Firebase** for seamless shopping experience.  
+### 🌍 Worlds Countries  
+An interactive web app providing insights about countries worldwide. Built with **Angular 18** and **ASP.NET Core Web API**.
+🔗 **GitHub:** [Worlds-Countries](https://github.com/Mousa90/Worlds-Countries)  
 
-### [Portfolio Website](https://github.com/your-github-username/portfolio)  
-💼 A responsive portfolio to showcase my work, built with **Angular and Bootstrap**.  
+### 🏪 Origami Shop  
+An online store for handmade **origami figures** and Japanese-themed gifts. Developed with **Angular 17** and **Firebase**.
+🔗 **GitHub:** [Origami-Shop](https://github.com/Mousa90/Origami-Shop)  
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/your-profile)  
+### 🎓 Student Registration System  
+A web app for **managing student registrations** and majors. Built with **ASP.NET MVC**.  
+🔗 **GitHub:** [Student-Reg-Sys](https://github.com/Mousa90/Student-Reg-Sys)  
 
-<!--
-**Mousa90/Mousa90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- **LinkedIn:** [Mousa Alkalouti](https://www.linkedin.com/in/mousa-alkalouti)  
+- **Email:** [mousa_341@hotmail.com](mailto:mousa_341@hotmail.com)
